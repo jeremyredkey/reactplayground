@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important Note: For best experience please run terminal command in project directory: 
+  'npm i --save @fortawesome/fontawesome-svg-core
+  npm install --save @fortawesome/free-solid-svg-icons
+  npm install --save @fortawesome/react-fontawesome'
+  
+  For more information on how to get started with FontAwesome please [Click Here](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
+  
+
 ## Available Scripts
 
 In the project directory, you can run:
