@@ -1,0 +1,14 @@
+.CounterBtn {
+    color: #fff;
+    font-weight: bold;
+    padding: 5px 10px;
+    background: #0099ff;
+    border-color: #0099ff;
+}
+
+.CounterBtn:hover {
+    background: #61dafa;
+    border-color: #61dafa;
+    color: #282c34;
+}
+
