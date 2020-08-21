@@ -11,25 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-
-.App {
-  display: flex;
-  margin: 40px;
-  min-height: calc(100vh - 80px);
-}
-
-.split {
-  flex: 1;
-  padding: 1em;
-}
-
-.left {
-  background-color: darkslategray;
-  color: azure;
-}
-
-.right {
-  background-color: wheat;
-  color: firebrick;
-}
