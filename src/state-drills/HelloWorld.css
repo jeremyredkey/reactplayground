@@ -1,0 +1,10 @@
+button {
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+button:hover {
+    background: maroon;
+    color: white;
+    border-color: maroon;
+}
