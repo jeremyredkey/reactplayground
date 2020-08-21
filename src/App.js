@@ -1,3 +1,4 @@
+
 import React from 'react';
 import logo from './logo.svg';
 import HelloWorld from './state-drills/HelloWorld';
@@ -14,20 +15,15 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <HelloWorld />
         <TheDate />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
         <Counter />
         <Bomb />
         <RouletteGun />
+        <h2>Accordion</h2>
+        <Accordion sections={sections} />
       </header>
     </div>
   );
 }
+
 
 export default App;
